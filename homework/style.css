@@ -1,0 +1,60 @@
+nav{
+    
+    position: fixed;
+    text-align:center;
+    background-color: black;
+    width:100%;
+   
+}
+
+nav li{
+    display: inline;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 20px;
+    
+}
+
+nav a{
+    color: red;
+    padding: 10px;
+}
+
+#Biohazard1{
+    background-image: url(b1.jpg);
+    height: 800px;
+    width: 1500px;
+}
+
+#Biohazard2{
+    background-image: url(b2.jpg);
+    height: 800px;
+    width: 1500px;
+}
+
+#Biohazard3{
+    background-image: url(b3.jpg);
+    height: 800px;
+    width: 1500px;
+}
+
+#Biohazard4{
+    background-image:url(b4.jpg);
+    height: 800px;
+    width: 1500px;
+}
+
+#Biohazard5{
+    background-image:url(b5.jpg);
+    height: 800px;
+    width: 1500px;
+}
+#Biohazard6{
+    background-image:url(b6.jpg);
+    height:800px;
+    width:1500px;
+}
+#Biohazard7{
+    background-image:url(b7.jpg);
+    height: 800px;
+    width:1500px;
+}
