@@ -1,0 +1,177 @@
+.homepage{
+    background-color:#efb710;
+}
+div{
+    margin-left: 0px;
+    margin-top:  0px;
+}
+.story{
+       background-color: #efb710;
+}
+h2{
+    margin-left:460px;
+    margin-bottom:0px;
+    margin-top:20px;
+   
+}
+image{
+    margin-bottom:0px;
+    height:20px;
+
+}
+ul li{
+    display:inline;
+    font-size: 20px;
+    margin-right:0px;
+    margin-left:20px;
+    margin-top:0px;
+    
+}
+.navbar{
+    text-decoration: none;
+    color: black;
+}
+ul li:hover{
+    background-color: yellow;
+}
+nav{
+    text-align:center;
+    margin-left: 0px;
+}
+h1{
+    font-size: 45px;
+}
+.part1{ 
+    font-family: 'Dosis', sans-serif;
+    font-size:15px;
+    margin-top:0px;
+    margin-right:50px;
+    margin-bottom:0px;
+    margin-left:
+}
+.left{
+    float:left;
+    max-width:600px;
+    margin:20px;
+    margin-top:20px;
+    margin-left:20px;
+}
+.right{
+    float:right;
+    max-height: 200px;
+    margin-right:50px;
+    
+ 
+}
+
+Span{
+    font-size: 30px;
+    font-weight:600;
+}
+.part2{
+    font-family: 'Dosis', sans-serif;
+    font-size:15px;
+    margin-top:50px;
+    margin-right:50px;
+    margin-bottom:0px;
+    margin-left: 20px;
+}
+.part1half{
+    font-family: 'Dosis', sans-serif;
+    font-size:15px;
+    max-width:1000px;
+    margin-left:20px;
+}
+character{
+    text-align: center;
+    background-color: darksalmon;
+    position:sticky;
+    top:0;
+    left:0;
+    width:100%;
+    opacity: 0.8;
+    
+}
+
+nav li{
+    display:inline-flex;
+    
+}
+
+nav a{
+    color:white; 
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color:yellow;
+    
+}
+#Naruto{
+    background-image:url(narutoo.jpg);
+    background-size: cover;
+    height: 600px;
+    margin-bottom: 0px;
+    max-height:600px;
+}
+
+#Sasuke{
+    background-image: url(sasuke.jpg);
+    background-size: cover;
+    height: 600px;
+    margin-top:0px;
+}
+
+#Sakura{
+    background-image: url(sakura.jpg);
+    background-size: cover;
+    height: 600px;
+ 
+}
+#Kakashi{
+    background-image: url(kakashi.jpg);
+    background-size: cover;
+    height: 600px;
+}
+#Orochimaru{
+    background-image: url(orochimaru.jpg);
+    background-position: center;
+    height: 600px;
+}
+#Akatsuki{
+    background-image: url(akatsuki.jpg);
+    background-size: cover;
+    height: 600px;
+}
+#Jiraiya{
+    background-image: url(jiraiya.jpg);
+    background-size: cover;
+    height: 600px;
+}
+#Madara{
+    background-image: url(madara.jpg);
+    background-size: cover;
+    height: 600px;
+}
+iframe{
+    display: inline;
+}
+h9{
+    font-size:50px;
+    margin-left: 450px;
+    margin-top: 40px;
+     font-family: 'Josefin Sans', sans-serif;
+    font-weight:bold;
+    background-color: #efb710;
+
+}
+.t{
+    margin-top: 50px;
+    margin-right:2opx;
+}
+.moment{
+    background-image: url(13.jpg);
+}
