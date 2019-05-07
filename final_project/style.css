@@ -1,0 +1,108 @@
+body::before {
+background-image: url(Supreme.jpg);
+background-size: auto;
+content: "";
+display: block;
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+z-index: -2;
+opacity: 0.4;
+}
+
+#main{
+    margin-top:100px;
+    margin-left: 550px;
+    padding-bottom: 50px;
+    
+}
+ul li{
+    margin-left: 550px;
+    font-family: "Courier New", Courier, Monaco;
+    
+     margin-top: 5px;
+    padding: 10px;
+    
+     
+   
+    list-style:none;
+    
+}
+
+.navbar{
+     font-family: "Courier New", Courier, Monaco;
+     text-decoration: none;
+     color:black;
+    font-weight:bold;
+    
+}
+#shop{
+    margin-left:550px;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.a{
+   
+    margin-left: 300px;
+    list-style: none;
+    margin-bottom: 100px;
+    
+}
+#chop{
+    margin-left: 530px;
+    width:200px;
+    height:200px;
+    display:block;
+    margin-bottom:10px;
+    box-shadow:0px 8px 16px 0px
+}
+#l{
+    margin-left:530px;
+     width:200px;
+    height:200px;
+    display:block;
+    margin-bottom:10px;
+    box-shadow:0px 8px 16px 0px
+}
+#square{
+    margin-left:530px;
+     width:200px;
+    height:200px;
+    display:block;
+    margin-bottom:10px;
+    box-shadow:0px 8px 16px 0px
+}
+#light{
+     margin-left:530px;
+     width:200px;
+    height:200px;
+    display:block;
+    margin-bottom:10px;
+    box-shadow:0px 8px 16px 0px
+}
+p{
+    margin-bottom:30px;
+    font-family: "Courier New", Courier, Monaco;
+     text-decoration: none;
+     color:black;
+    font-weight:bold;
+    margin-left:510;
+    
+}
+#ac{
+    margin-left:550px;
+    margin-top:50px;
+    margin-bottom:20px;
+}
+.controls{
+    margin-left: 470px;
+    font-family: "Courier New", Courier, Monaco;
+    font-weight:bold;
+    margin-top: 10px;
+}
+h5{
+    width:400px;
+    margin-left: 460px;
+}
